@@ -21,13 +21,12 @@ These are the following functionalities:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/021151890ef74923b7ddacd8ea75470b">
+    <a href="https://www.loom.com/share/796769420d514815b6491e8a6fe709ad">
     </a>
-    <a href="https://www.loom.com/share/021151890ef74923b7ddacd8ea75470b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/021151890ef74923b7ddacd8ea75470b-3742b042e374f220-full-play.gif">
+    <a href="https://www.loom.com/share/796769420d514815b6491e8a6fe709ad">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/796769420d514815b6491e8a6fe709ad-5cc2d3dd29ac77d0-full-play.gif">
     </a>
   </div>
-
 
 ## License
 
